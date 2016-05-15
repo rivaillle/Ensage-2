@@ -34,7 +34,7 @@ namespace Bristleback_Sharp
             {
                 if (Game.IsKeyDown(32))
                 {
-                    chase = true;
+                    chase = false;
                 }
                 else
                 {
